@@ -1,6 +1,6 @@
 ## CHIP-8 Emulator 
 
-![PONG](resources\PONG.PNG)
+![PONG](https://github.com/Opadc/CHIP-8-Emulator/blob/main/resources/PONG.PNG)
 
 Writen In Rust With ggez.
 
